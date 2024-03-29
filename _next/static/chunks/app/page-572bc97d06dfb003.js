@@ -327,7 +327,7 @@
                     }),
                     (0, n.jsx)("div", {
                       className: H().advantages_contract_address_container,
-                      children: "0xd11A584DE5fA50a4Ee560C48aB44DbB31823d9bc",
+                      children: "9noRPJxJMRX3dobL3JSYNtLLg2uktGPS8MqZPAN8Qits",
                     }),
                     (0, n.jsx)(m, { size: "large" }),
                   ],
