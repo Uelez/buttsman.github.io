@@ -32,7 +32,7 @@
         m = function (e) {
           let { size: a } = e;
           return (0, n.jsxs)(b.default, {
-            href: "https://raydium.io/swap/?inputCurrency=sol&outputCurrency=BMDPq8x6C8v1U2us1wrtxgftYq1efbhunHjk1n8s5Aj6&inputAmount=0&fixed=in",
+            href: "https://raydium.io/swap/?inputCurrency=sol&outputCurrency=9noRPJxJMRX3dobL3JSYNtLLg2uktGPS8MqZPAN8Qits&inputAmount=0&fixed=in",
             className:
               "medium" === a
                 ? l().button_container_medium
@@ -523,7 +523,7 @@
                           className: _().page_mobile_menu_item,
                           onClick: () =>
                             (window.location.href =
-                              "https://raydium.io/swap/?inputCurrency=sol&outputCurrency=BMDPq8x6C8v1U2us1wrtxgftYq1efbhunHjk1n8s5Aj6&inputAmount=0&fixed=in"),
+                              "https://raydium.io/swap/?inputCurrency=sol&outputCurrency=9noRPJxJMRX3dobL3JSYNtLLg2uktGPS8MqZPAN8Qits&inputAmount=0&fixed=in"),
                           children: "UNISWAP",
                         }),
                         (0, n.jsx)("div", {
